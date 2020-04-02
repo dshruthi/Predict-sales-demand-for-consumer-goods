@@ -7,3 +7,16 @@ Feature Engineering
 
 
 Dividing the Dataset into Promotional and non-Promotional Data
+
+
+
+
+Applying Models for the Data set
+Splitting the promotional Dataset into Training and Testing 
+Splitting the non-promotional Dataset into Training and Testing 
+
+Applied Linear Regression Model
+Applied Random forest regressor
+Applied Decision Tree regressor
+
+to Evaluate and find the best Model
