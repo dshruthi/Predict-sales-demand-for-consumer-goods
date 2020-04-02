@@ -5,3 +5,5 @@ Handling Missing Values & removing NaN and 0's values
 Feature Engineering
 
 
+
+Dividing the Dataset into Promotional and non-Promotional Data
